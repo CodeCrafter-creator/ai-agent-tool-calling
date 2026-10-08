@@ -1,5 +1,7 @@
 # AI Agent with Tool Calling
 
+[![GitHub repo](https://img.shields.io/badge/GitHub-ai--agent--tool--calling-181717?logo=github)](https://github.com/CodeCrafter-creator/ai-agent-tool-calling)
+
 A small, production-style FastAPI service that demonstrates an AI agent
 using Anthropic Claude's **tool-calling (function-calling)** feature to
 decide, per request, which of three tools to run — then actually runs it
